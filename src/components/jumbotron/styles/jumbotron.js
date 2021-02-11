@@ -61,4 +61,3 @@ export const Image = styled.img`
     height: auto;
 `;
 
-//test commit 

@@ -15,9 +15,9 @@ export default function App() {
     <Route exact path='/signup'>
       <Signup/>
     </Route>
-    {/* <Route exact path='/browse'>
+    <Route exact path='/browse'>
       <Browse/>
-    </Route> */}
+    </Route>
   </Router>
   );
 }
